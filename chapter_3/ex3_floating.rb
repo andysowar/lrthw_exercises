@@ -10,7 +10,7 @@ puts "Roosters #{100 - 25 * 3 % 4}"
 puts 'Now I will count the eggs:'
 
 # This uses all of the different math operators and outputs the result.
-puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
+puts 3 + 2 + 1 - 5 + 4 % 2 - 1.0 / 4 + 6
 # This is a string.
 puts 'Is it true the 3 + 2 < 5 - 7?'
 
