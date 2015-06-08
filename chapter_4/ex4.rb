@@ -2,7 +2,7 @@
 cars = 100
 # 4 defines how many spaces are in one car.
 space_in_a_car = 4
-# 30 defines how many total drives there are.
+# 30 defines how many total drivers there are.
 drivers = 30
 # 90 defines how many total passengers there are.
 passengers = 90
