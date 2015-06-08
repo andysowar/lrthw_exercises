@@ -5,7 +5,7 @@ x = "There are #{types_of_people} types of people."
 # Another variable set to a string.
 binary = 'binary'
 # Another variable set to a string.
-do_not = 'don\'t'
+do_not = "don't"
 # Another variable set to a string with 2 variables inside it.
 y = "Those who know #{binary} and those who #{do_not}."
 
