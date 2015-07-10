@@ -1,18 +1,15 @@
 #Study Drills
 
 ######2. Find all the places where a string is put inside a string. There are four places.
->`x = "There are #{types_of_people} types of people."`
-
 >`y = "Those who know #{binary} and those who #{do_not}."`
 
 >`puts "I said: #{x}."`
 
 >`puts "I also said: '#{y}'."`
 
->`joke_evaluation = "Isn't that joke so funny?! #{hilarious}"`
 
 ######3. Was he lying?
->Yes, he was lying. There are 5 places, see above.
+>No, he was not lying. There are only 4 places.
 
 ######4. Explain why adding the two strings w and e with + makes a longer string.
 >You can put together two or more strings using the `+` sign.
